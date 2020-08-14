@@ -3,9 +3,9 @@
 Existing Human-Object Interaction (HOI) Detection approaches have achieved great progress on non-rare classes while rare HOI classes are still not well-detected. In this paper, we intend to apply human prior knowledge into the existing work. So we add human-labeled rules to ***PaSta*Net** and propose ***Rb-PaSta*Net** aimed at improving rare HOI classes detection. Our results show a certain improvement of the rare classes, while the non-rare classes and the overall improvement is more considerable. 
 
 ## Author
-Shenyu Zhang, Shanghai Jiaotong University
-Zichen Zhu, Shanghai Jiaotong University
-Qingquan Bao, Shanghai Jiaotong University
+* Shenyu Zhang, Shanghai Jiaotong University
+* Zichen Zhu, Shanghai Jiaotong University
+* Qingquan Bao, Shanghai Jiaotong University
 
 
 ## Paper
