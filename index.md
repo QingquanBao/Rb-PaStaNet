@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Abstract
 
-You can use the [editor on GitHub](https://github.com/QingquanBao/Rb-PaStaNet/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Existing Human-Object Interaction (HOI) Detection approaches have achieved great progress on non-rare classes while rare HOI classes are still not well-detected. In this paper, we intend to apply human prior knowledge into the existing work. So we add human-labeled rules to ***PaSta*Net** and propose ***Rb-PaSta*Net** aimed at improving rare HOI classes detection. Our results show a certain improvement of the rare classes, while the non-rare classes and the overall improvement is more considerable. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Author
+Shenyu Zhang, Shanghai Jiaotong University
+Zichen Zhu, Shanghai Jiaotong University
+Qingquan Bao, Shanghai Jiaotong University
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Paper
+Our paper is available [here](). It will be presented on IMVIP 2020.
 
-```markdown
-Syntax highlighted code block
+## Code 
+Our source code is available [here]()
 
-# Header 1
-## Header 2
-### Header 3
+## Acknowledgements
+We would like to express our very great appreciation to Cewu Lu and Yong-Lu Li for their constructive suggestions and guidance throughout this research work. We would also like to extend our thanks to Liang Xu for his assistance in terms of codes. Their patience and carefulness have been very much appreciated.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QingquanBao/Rb-PaStaNet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
